@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.758" height="18.522" viewBox="0 0 16.758 18.522">
+  <defs>
+    <linearGradient id="linear-gradient" x1="130.386" y1="-20.323" x2="131.588" y2="-21.108" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdcab" stop-opacity="0"/>
+      <stop offset="0.1" stop-color="#fdcfa1" stop-opacity="0.129"/>
+      <stop offset="0.35" stop-color="#fab28b" stop-opacity="0.435"/>
+      <stop offset="0.575" stop-color="#f79b79" stop-opacity="0.678"/>
+      <stop offset="0.764" stop-color="#f58a6c" stop-opacity="0.851"/>
+      <stop offset="0.912" stop-color="#f48064" stop-opacity="0.961"/>
+      <stop offset="1" stop-color="#f47d62"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="151.309" y1="276.646" x2="150.652" y2="275.888" gradientUnits="objectBoundingBox">
+      <stop offset="0.17" stop-color="#fea403" stop-opacity="0"/>
+      <stop offset="0.307" stop-color="#f39a10" stop-opacity="0.282"/>
+      <stop offset="0.451" stop-color="#ea901c" stop-opacity="0.545"/>
+      <stop offset="0.575" stop-color="#e28925" stop-opacity="0.737"/>
+      <stop offset="0.671" stop-color="#de852a" stop-opacity="0.855"/>
+      <stop offset="0.729" stop-color="#dd842d" stop-opacity="0.898"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.411" y1="0.629" x2="0.8" y2="0.045" gradientUnits="objectBoundingBox">
+      <stop offset="0.17" stop-color="#fea403" stop-opacity="0"/>
+      <stop offset="0.195" stop-color="#fca204" stop-opacity="0.039"/>
+      <stop offset="0.419" stop-color="#f19712" stop-opacity="0.376"/>
+      <stop offset="0.62" stop-color="#e88f1e" stop-opacity="0.643"/>
+      <stop offset="0.789" stop-color="#e28926" stop-opacity="0.839"/>
+      <stop offset="0.921" stop-color="#de852b" stop-opacity="0.957"/>
+      <stop offset="1" stop-color="#dd842d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1901" data-name="Group 1901" transform="matrix(0.966, 0.259, -0.259, 0.966, 2.55, 0)">
+    <g id="Group_1895" data-name="Group 1895" transform="translate(0 0)">
+      <g id="Group_1894" data-name="Group 1894">
+        <rect id="Rectangle_119" data-name="Rectangle 119" width="6.284" height="0.836" transform="translate(0.821 5.264) rotate(-45)" fill="#fea403"/>
+        <rect id="Rectangle_120" data-name="Rectangle 120" width="6.284" height="0.836" transform="translate(0.821 5.264) rotate(-45)" fill="#012e43"/>
+        <path id="Path_1472" data-name="Path 1472" d="M.964.964a3.046,3.046,0,0,0-.143,4.3L5.265.821A3.046,3.046,0,0,0,.964.964Z" fill="#ffddaf"/>
+        <path id="Path_1473" data-name="Path 1473" d="M.964.964a3.046,3.046,0,0,0-.143,4.3L3.1,2.991,5.265.821A3.046,3.046,0,0,0,.964.964Z" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="Path_1474" data-name="Path 1474" d="M4.444,0,11.35,6.906l2.228,6.141c.278.456-.078.842-.551.573L6.906,11.35,0,4.444Z" transform="translate(1.412 1.412)" fill="#fea403"/>
+      <path id="Path_1475" data-name="Path 1475" d="M.856.928,1.784,0l.51,1.405L2.56,2.1a.351.351,0,0,1-.443.475l-.762-.288L0,1.784Z" transform="translate(12.506 12.531)" fill="#012e43"/>
+    </g>
+    <path id="Path_1476" data-name="Path 1476" d="M1.166,5.644S8.53,4.217,5.6,1.2c-.1-.1-1.2-1.2-1.2-1.2L0,4.479Z" transform="translate(1.993 1.958)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_1477" data-name="Path 1477" d="M5.238,0S-2.481,3.6.822,4.217c.116.022,3.054,1.125,3.054,1.125L6.321,3.027Z" transform="translate(7.644 8.606)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

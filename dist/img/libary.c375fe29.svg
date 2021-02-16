@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_45247" data-name="Group 45247" transform="translate(-660 -531.999)">
+    <rect id="Rectangle_10592" data-name="Rectangle 10592" width="48" height="48" transform="translate(660 531.999)" fill="none"/>
+    <g id="book-open-duotone" transform="translate(664.274 539.901)">
+      <path id="Path_63722" data-name="Path 63722" d="M19.1,2.16V25.89A2.191,2.191,0,0,1,17,28.043c-3.475.183-10.5.85-15.361,3.3A1.112,1.112,0,0,1,0,30.391V4.834a1.08,1.08,0,0,1,.511-.925C5.234,1.017,12.884.222,16.736,0A2.2,2.2,0,0,1,19.1,2.16Z" transform="translate(20.749 0)" fill="#fea403" opacity="0.4"/>
+      <path id="Path_63723" data-name="Path 63723" d="M18.594,3.908C13.872,1.017,6.222.223,2.373,0A2.2,2.2,0,0,0,0,2.16v23.73a2.189,2.189,0,0,0,2.107,2.154c3.476.183,10.507.851,15.366,3.3A1.108,1.108,0,0,0,19.1,30.4V4.821a1.057,1.057,0,0,0-.509-.912Z" transform="translate(0 0)" fill="#fea403"/>
+    </g>
+  </g>
+</svg>
